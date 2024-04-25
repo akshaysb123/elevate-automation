@@ -1,0 +1,19 @@
+2024-04-01 16:13:41,888 DEBUG [main] TestNG:82 - suiteXmlPath: "C:\Users\AkshayBashetti\eclipse-workspace\TestProject\testng.xml"
+2024-04-01 16:13:42,187 DEBUG [main] Graph:52 - [Graph] ADDING NODE hoteltestcase.setUp(java.lang.String)[pri:0, instance:null] -1228184127
+2024-04-01 16:13:42,188 DEBUG [main] Graph:52 - [Graph] ================ SORTING
+2024-04-01 16:13:42,192 DEBUG [main] Graph:52 - [Graph] =============== DONE SORTING
+2024-04-01 16:13:42,192 DEBUG [main] Graph:52 - [Graph] ====== SORTED NODES
+2024-04-01 16:13:42,193 DEBUG [main] Graph:52 - [Graph] ====== END SORTED NODES
+2024-04-01 16:13:42,196 DEBUG [main] Graph:52 - [Graph] ADDING NODE hoteltestcase.Creationnewhotel()[pri:1, instance:akshay.hoteltestcase@7486b455] 637160042
+2024-04-01 16:13:42,196 DEBUG [main] Graph:52 - [Graph] ================ SORTING
+2024-04-01 16:13:42,197 DEBUG [main] Graph:52 - [Graph] =============== DONE SORTING
+2024-04-01 16:13:42,197 DEBUG [main] Graph:52 - [Graph] ====== SORTED NODES
+2024-04-01 16:13:42,198 DEBUG [main] Graph:52 - [Graph] ====== END SORTED NODES
+2024-04-01 16:13:42,212  INFO [main] Utils:112 - [TestNG] Running:
+  C:\Users\AkshayBashetti\eclipse-workspace\TestProject\testng.xml
+
+2024-04-01 16:16:28,909 DEBUG [main] Graph:52 - [Graph] ADDING NODE hoteltestcase.Creationnewhotel()[pri:1, instance:akshay.hoteltestcase@7486b455] 637160042
+2024-04-01 16:16:28,909 DEBUG [main] Graph:52 - [Graph] ================ SORTING
+2024-04-01 16:16:28,909 DEBUG [main] Graph:52 - [Graph] =============== DONE SORTING
+2024-04-01 16:16:28,909 DEBUG [main] Graph:52 - [Graph] ====== SORTED NODES
+2024-04-01 16:16:28,909 DEBUG [main] Graph:52 - [Graph] ====== END SORTED NODES
